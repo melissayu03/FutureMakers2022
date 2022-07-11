@@ -7,3 +7,6 @@ Day 2- Today was a day of learning concepts that were completly new to me and it
 
 
 Day 3- I got to learn a lot of new concepts today and particulary about machine learning. In the homework, I was introduced to different machine learning models and different patterns that I might come across in the future. I was also introduced to a little bit of tensorflow and after today I realized I have so much left to learn. 
+
+
+Day 4- Today we got to attend a seminar with Dr.David Kong who taught us the significance of story-telling and how it can really have an impact on other readers/your audience. I really enjoyed getting to attend this seminar and it was really fun to hear everyone's origin stories as well as share my own. It was very easy to be engaged because Mr.Kong made it really interactive and fun. I am very inspired after today seminar. 
