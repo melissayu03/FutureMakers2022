@@ -4,3 +4,6 @@ Day 1 - Starting off day one of the MIT Surestart machine learning and AI progra
 
 
 Day 2- Today was a day of learning concepts that were completly new to me and it was interesting and challenging to be introduced to these new topics. I got to learn the differen fundementals of machine learning and even though today's homework was slighty confusing, I think the more I read and researched, the more I got to understand the concepts we learned today. 
+
+
+Day 3- I got to learn a lot of new concepts today and particulary about machine learning. In the homework, I was introduced to different machine learning models and different patterns that I might come across in the future. I was also introduced to a little bit of tensorflow and after today I realized I have so much left to learn. 
