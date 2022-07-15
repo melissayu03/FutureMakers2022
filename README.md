@@ -14,3 +14,6 @@ Day 4- Today we got to attend a seminar with Dr.David Kong who taught us the sig
 Day 5- I got to explore more about the new concepts of machine learning, specifically more about neural networks which was very exciting. I got to learn about tensorflow in the homework and I was eager to learn about why and when we use tensorflow. I got to see how neural networks process information and what the output would be. We also got to attend a technical talk today which introduced a different mindset and gave me inspiration. 
 
 Day 6- Today we got to learn more about neural networks and different things like parameters, sigmoid vs softmax, forward and backward passes, etc. We talked about the different layers of a neural network and how to encorporate weight. There was more math presented in today and I'm definetly more challenged as I continue to learn. 
+
+
+Day 7- I got to learn a lot more about neural networks today and things are for sure getting challenging! There are so many different type of neural networks such as convolution neural networks and Artificial neural networks that handels information differently and processes information differently. I learned quite a lot from today's lesson. We also got to attend a technical talk about setting a goal and completing the steps to acheive that goal. 
