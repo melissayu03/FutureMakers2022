@@ -17,3 +17,6 @@ Day 6- Today we got to learn more about neural networks and different things lik
 
 
 Day 7- I got to learn a lot more about neural networks today and things are for sure getting challenging! There are so many different type of neural networks such as convolution neural networks and Artificial neural networks that handels information differently and processes information differently. I learned quite a lot from today's lesson. We also got to attend a technical talk about setting a goal and completing the steps to acheive that goal. 
+
+
+Day 8- Today we learned about a new concept called algorithmic bias, which explains how even a computer/computational thinking can also be biased. It was really suprising to learn that computers can be bias but in the end of the lesson it made sense on why. We also attended another relfection session today which refreshed my mind on the 4 steps of computational thinking and how the skills we are learning can apply to my future. 
