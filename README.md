@@ -20,3 +20,6 @@ Day 7- I got to learn a lot more about neural networks today and things are for 
 
 
 Day 8- Today we learned about a new concept called algorithmic bias, which explains how even a computer/computational thinking can also be biased. It was really suprising to learn that computers can be bias but in the end of the lesson it made sense on why. We also attended another relfection session today which refreshed my mind on the 4 steps of computational thinking and how the skills we are learning can apply to my future. 
+
+
+Day 9- I learned more about the components of Convolutional neural networks today we got to continue donut workshopping with our peers. I learned about the MNIST dataset today and also more about how filters work with different channels/images. I also got to learn about dropout layers and batch normalizing layers. 
