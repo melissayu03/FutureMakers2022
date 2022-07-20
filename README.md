@@ -23,3 +23,5 @@ Day 8- Today we learned about a new concept called algorithmic bias, which expla
 
 
 Day 9- I learned more about the components of Convolutional neural networks today we got to continue donut workshopping with our peers. I learned about the MNIST dataset today and also more about how filters work with different channels/images. I also got to learn about dropout layers and batch normalizing layers. 
+
+Day 10- Today was a little bit more challenging as we learned about loss functions, there are different types of loss functions and many errors you can run into when creating loss functions. Today was more math-based so I definitely needed to go over the slides a couple times before I grasped a good understanding of the new information. 
