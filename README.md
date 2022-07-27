@@ -27,3 +27,5 @@ Day 12- We dived into more information about biases and the different types of b
 Day 13- Image classfication was our new topic today and the colab notebook was a bit harder today. We attended another reflection session today and did another survey. Lastly, we attended a seminar about webscrapping which involved interactive live coding and I learn a lot from this. 
 
 Day 14- First day of the last week of content! Today we learned more and got into more depth with overfitting/underfitting, in the collab notebooks we learned how exactly to avoid the problem of overfitting or underfitting in a system. We also got to attend Ms.Taniya's technical talk today on how to succeed on technical interviews and how we can prepare ourselves and what steps we should take when going in for these interviews. 
+
+Day 15- Today we didn't have a main mentor session however we got to learn about how machine learning and AI can connect with the audiences' emotion and can analyze/determine one's attitude. We also got to learn how to build a portfolio, a resume, and how to take a profile picture that is professional. 
