@@ -29,3 +29,5 @@ Day 13- Image classfication was our new topic today and the colab notebook was a
 Day 14- First day of the last week of content! Today we learned more and got into more depth with overfitting/underfitting, in the collab notebooks we learned how exactly to avoid the problem of overfitting or underfitting in a system. We also got to attend Ms.Taniya's technical talk today on how to succeed on technical interviews and how we can prepare ourselves and what steps we should take when going in for these interviews. 
 
 Day 15- Today we didn't have a main mentor session however we got to learn about how machine learning and AI can connect with the audiences' emotion and can analyze/determine one's attitude. We also got to learn how to build a portfolio, a resume, and how to take a profile picture that is professional. 
+
+Day 16- Today we got to learn about upsampling and downsampling which I thought was really interesting and it was cool to discover how these processes work. The colab notebook I worked on today talked about audios and how audios are actually processed through code which I thought was amazing and such a fun thing to learn about and explore. 
