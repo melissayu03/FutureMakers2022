@@ -31,3 +31,5 @@ Day 14- First day of the last week of content! Today we learned more and got int
 Day 15- Today we didn't have a main mentor session however we got to learn about how machine learning and AI can connect with the audiences' emotion and can analyze/determine one's attitude. We also got to learn how to build a portfolio, a resume, and how to take a profile picture that is professional. 
 
 Day 16- Today we got to learn about upsampling and downsampling which I thought was really interesting and it was cool to discover how these processes work. The colab notebook I worked on today talked about audios and how audios are actually processed through code which I thought was amazing and such a fun thing to learn about and explore. 
+
+Day 17- It's crazy to think we're one day away from finishing the collab notebooks! We learned about natural language processing today and also got to attend another technical talk that focused a lot on what kind of person I am, what kind of struggles (me as an indivisual) I have to go through compared to other people and also how to stay motivated when it seems really hard to do so.
